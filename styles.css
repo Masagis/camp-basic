@@ -1,0 +1,21 @@
+ .box {
+  height: 300px;
+  width: 300px;
+
+  border: 4px dashed red;
+ }
+
+ .box {
+  min-height: 300px;
+  min-width: 300px;
+
+  max-height: 300px;
+  max-width: 300px;
+ }
+
+ p {
+  padding: 20px;
+  margin: 20px;
+ }
+
+
